@@ -1,0 +1,13 @@
+@echo off
+@echo N2
+.\DotsAndBoxes.exe .\settings\settings3_N2.json
+@echo IN2
+.\DotsAndBoxes.exe .\settings\settings3_IN2.json
+@echo 7
+.\DotsAndBoxes.exe .\settings\settings3_7.json
+@echo 8
+.\DotsAndBoxes.exe .\settings\settings3_8.json
+@echo 9
+.\DotsAndBoxes.exe .\settings\settings3_9.json
+@echo 10
+.\DotsAndBoxes.exe .\settings\settings3_10.json

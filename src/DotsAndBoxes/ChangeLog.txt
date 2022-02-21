@@ -1,0 +1,5 @@
+﻿* Changes Net.Core 3.1 *
+
+Batch and Game Folders Created 
+Json settings file and batch file moved to Batch folder
+Game files moved to Game Folder, Game.cs renamed to DotsAndBoxes.cs
