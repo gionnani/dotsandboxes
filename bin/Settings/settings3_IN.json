@@ -1,0 +1,19 @@
+{
+  "Uct": 1.41,
+  "SimulationsP1": 100,
+  "SimulationsP2": 100,
+  "Seed": 200,
+  "MillisecondsP1": 5000,
+  "MillisecondsP2": 5000,
+  "Bonus": 3,
+  "Boxes": 3,
+  "NumberOfGames": 20,
+  "Agent1Type": 4,
+  "Agent1Cnn": 17,
+  "Agent2Type": 0,
+  "Agent2Cnn": 0,
+  "OutputFolder": "Results",
+  "OutputFile": "results-3-IN",
+  "OutputId": true,
+  "Mode": 0
+}
