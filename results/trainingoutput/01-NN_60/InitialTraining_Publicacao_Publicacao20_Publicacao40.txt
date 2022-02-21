@@ -1,0 +1,800 @@
+Epoch 1/400
+1200/1200 [==============================] - 15s 10ms/step - loss: 3.5782 - policy_net_loss: 2.5250 - value_net_loss: 1.0532 - val_loss: 3.1399 - val_policy_net_loss: 2.1949 - val_value_net_loss: 0.9450
+Epoch 2/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 3.1914 - policy_net_loss: 2.2441 - value_net_loss: 0.9473 - val_loss: 3.0036 - val_policy_net_loss: 2.0730 - val_value_net_loss: 0.9306
+Epoch 3/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 3.0919 - policy_net_loss: 2.1503 - value_net_loss: 0.9416 - val_loss: 2.9659 - val_policy_net_loss: 2.0348 - val_value_net_loss: 0.9312
+Epoch 4/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 3.0320 - policy_net_loss: 2.0942 - value_net_loss: 0.9378 - val_loss: 2.9268 - val_policy_net_loss: 2.0004 - val_value_net_loss: 0.9264
+Epoch 5/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.9909 - policy_net_loss: 2.0563 - value_net_loss: 0.9346 - val_loss: 2.8921 - val_policy_net_loss: 1.9700 - val_value_net_loss: 0.9221
+Epoch 6/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.9571 - policy_net_loss: 2.0259 - value_net_loss: 0.9312 - val_loss: 2.8619 - val_policy_net_loss: 1.9306 - val_value_net_loss: 0.9313
+Epoch 7/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.9235 - policy_net_loss: 1.9948 - value_net_loss: 0.9287 - val_loss: 2.8498 - val_policy_net_loss: 1.9218 - val_value_net_loss: 0.9281
+Epoch 8/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.8911 - policy_net_loss: 1.9653 - value_net_loss: 0.9258 - val_loss: 2.8143 - val_policy_net_loss: 1.8959 - val_value_net_loss: 0.9184
+Epoch 9/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.8621 - policy_net_loss: 1.9395 - value_net_loss: 0.9226 - val_loss: 2.7896 - val_policy_net_loss: 1.8657 - val_value_net_loss: 0.9240
+Epoch 10/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.8412 - policy_net_loss: 1.9192 - value_net_loss: 0.9220 - val_loss: 2.7941 - val_policy_net_loss: 1.8731 - val_value_net_loss: 0.9210
+Epoch 11/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.8156 - policy_net_loss: 1.8961 - value_net_loss: 0.9195 - val_loss: 2.7617 - val_policy_net_loss: 1.8452 - val_value_net_loss: 0.9165
+Epoch 12/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7900 - policy_net_loss: 1.8710 - value_net_loss: 0.9190 - val_loss: 2.7509 - val_policy_net_loss: 1.8328 - val_value_net_loss: 0.9180
+Epoch 13/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7682 - policy_net_loss: 1.8531 - value_net_loss: 0.9151 - val_loss: 2.7252 - val_policy_net_loss: 1.8126 - val_value_net_loss: 0.9125
+Epoch 14/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7504 - policy_net_loss: 1.8373 - value_net_loss: 0.9131 - val_loss: 2.7247 - val_policy_net_loss: 1.8137 - val_value_net_loss: 0.9110
+Epoch 15/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7329 - policy_net_loss: 1.8207 - value_net_loss: 0.9122 - val_loss: 2.7176 - val_policy_net_loss: 1.7999 - val_value_net_loss: 0.9176
+Epoch 16/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7145 - policy_net_loss: 1.8047 - value_net_loss: 0.9098 - val_loss: 2.7120 - val_policy_net_loss: 1.8001 - val_value_net_loss: 0.9119
+Epoch 17/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.7028 - policy_net_loss: 1.7940 - value_net_loss: 0.9088 - val_loss: 2.7013 - val_policy_net_loss: 1.7912 - val_value_net_loss: 0.9101
+Epoch 18/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6809 - policy_net_loss: 1.7765 - value_net_loss: 0.9045 - val_loss: 2.7097 - val_policy_net_loss: 1.7887 - val_value_net_loss: 0.9210
+Epoch 19/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6726 - policy_net_loss: 1.7673 - value_net_loss: 0.9054 - val_loss: 2.7001 - val_policy_net_loss: 1.7871 - val_value_net_loss: 0.9130
+Epoch 20/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6560 - policy_net_loss: 1.7518 - value_net_loss: 0.9042 - val_loss: 2.6955 - val_policy_net_loss: 1.7824 - val_value_net_loss: 0.9131
+Epoch 21/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6477 - policy_net_loss: 1.7453 - value_net_loss: 0.9024 - val_loss: 2.6859 - val_policy_net_loss: 1.7745 - val_value_net_loss: 0.9114
+Epoch 22/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6299 - policy_net_loss: 1.7303 - value_net_loss: 0.8996 - val_loss: 2.6873 - val_policy_net_loss: 1.7819 - val_value_net_loss: 0.9054
+Epoch 23/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6217 - policy_net_loss: 1.7236 - value_net_loss: 0.8981 - val_loss: 2.6777 - val_policy_net_loss: 1.7697 - val_value_net_loss: 0.9079
+Epoch 24/400
+1200/1200 [==============================] - 10s 8ms/step - loss: 2.6130 - policy_net_loss: 1.7161 - value_net_loss: 0.8969 - val_loss: 2.6880 - val_policy_net_loss: 1.7809 - val_value_net_loss: 0.9070
+Epoch 25/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.6022 - policy_net_loss: 1.7054 - value_net_loss: 0.8967 - val_loss: 2.6854 - val_policy_net_loss: 1.7777 - val_value_net_loss: 0.9076
+Epoch 26/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5908 - policy_net_loss: 1.6965 - value_net_loss: 0.8943 - val_loss: 2.6811 - val_policy_net_loss: 1.7740 - val_value_net_loss: 0.9071
+Epoch 27/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5798 - policy_net_loss: 1.6866 - value_net_loss: 0.8931 - val_loss: 2.6913 - val_policy_net_loss: 1.7810 - val_value_net_loss: 0.9103
+Epoch 28/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5716 - policy_net_loss: 1.6798 - value_net_loss: 0.8918 - val_loss: 2.6846 - val_policy_net_loss: 1.7733 - val_value_net_loss: 0.9113
+Epoch 29/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.5621 - policy_net_loss: 1.6716 - value_net_loss: 0.8905 - val_loss: 2.6878 - val_policy_net_loss: 1.7799 - val_value_net_loss: 0.9079
+Epoch 30/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.5545 - policy_net_loss: 1.6661 - value_net_loss: 0.8884 - val_loss: 2.6867 - val_policy_net_loss: 1.7807 - val_value_net_loss: 0.9060
+Epoch 31/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.5456 - policy_net_loss: 1.6588 - value_net_loss: 0.8868 - val_loss: 2.6881 - val_policy_net_loss: 1.7734 - val_value_net_loss: 0.9147
+Epoch 32/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5425 - policy_net_loss: 1.6559 - value_net_loss: 0.8867 - val_loss: 2.6842 - val_policy_net_loss: 1.7713 - val_value_net_loss: 0.9129
+Epoch 33/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5314 - policy_net_loss: 1.6454 - value_net_loss: 0.8859 - val_loss: 2.6841 - val_policy_net_loss: 1.7789 - val_value_net_loss: 0.9052
+Epoch 34/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5206 - policy_net_loss: 1.6339 - value_net_loss: 0.8867 - val_loss: 2.6950 - val_policy_net_loss: 1.7875 - val_value_net_loss: 0.9075
+Epoch 35/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.5158 - policy_net_loss: 1.6335 - value_net_loss: 0.8823 - val_loss: 2.6974 - val_policy_net_loss: 1.7870 - val_value_net_loss: 0.9104
+Epoch 36/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.5082 - policy_net_loss: 1.6271 - value_net_loss: 0.8812 - val_loss: 2.6928 - val_policy_net_loss: 1.7824 - val_value_net_loss: 0.9104
+Epoch 37/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.5034 - policy_net_loss: 1.6235 - value_net_loss: 0.8799 - val_loss: 2.7018 - val_policy_net_loss: 1.7896 - val_value_net_loss: 0.9122
+Epoch 38/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.4930 - policy_net_loss: 1.6159 - value_net_loss: 0.8772 - val_loss: 2.6952 - val_policy_net_loss: 1.7856 - val_value_net_loss: 0.9096
+Epoch 39/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4861 - policy_net_loss: 1.6076 - value_net_loss: 0.8786 - val_loss: 2.6993 - val_policy_net_loss: 1.7907 - val_value_net_loss: 0.9086
+Epoch 40/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4766 - policy_net_loss: 1.6013 - value_net_loss: 0.8753 - val_loss: 2.6954 - val_policy_net_loss: 1.7874 - val_value_net_loss: 0.9080
+Epoch 41/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4724 - policy_net_loss: 1.5977 - value_net_loss: 0.8747 - val_loss: 2.7019 - val_policy_net_loss: 1.7912 - val_value_net_loss: 0.9107
+Epoch 42/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.4643 - policy_net_loss: 1.5909 - value_net_loss: 0.8734 - val_loss: 2.7025 - val_policy_net_loss: 1.7918 - val_value_net_loss: 0.9106
+Epoch 43/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4567 - policy_net_loss: 1.5835 - value_net_loss: 0.8732 - val_loss: 2.7124 - val_policy_net_loss: 1.7958 - val_value_net_loss: 0.9166
+Epoch 44/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4482 - policy_net_loss: 1.5780 - value_net_loss: 0.8703 - val_loss: 2.7101 - val_policy_net_loss: 1.7953 - val_value_net_loss: 0.9148
+Epoch 45/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4423 - policy_net_loss: 1.5721 - value_net_loss: 0.8702 - val_loss: 2.7182 - val_policy_net_loss: 1.8047 - val_value_net_loss: 0.9136
+Epoch 46/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4378 - policy_net_loss: 1.5705 - value_net_loss: 0.8673 - val_loss: 2.7306 - val_policy_net_loss: 1.8022 - val_value_net_loss: 0.9283
+Epoch 47/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4353 - policy_net_loss: 1.5696 - value_net_loss: 0.8657 - val_loss: 2.7149 - val_policy_net_loss: 1.8029 - val_value_net_loss: 0.9120
+Epoch 48/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4241 - policy_net_loss: 1.5593 - value_net_loss: 0.8647 - val_loss: 2.7262 - val_policy_net_loss: 1.8117 - val_value_net_loss: 0.9145
+Epoch 49/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4239 - policy_net_loss: 1.5571 - value_net_loss: 0.8667 - val_loss: 2.7276 - val_policy_net_loss: 1.8142 - val_value_net_loss: 0.9134
+Epoch 50/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4219 - policy_net_loss: 1.5587 - value_net_loss: 0.8633 - val_loss: 2.7216 - val_policy_net_loss: 1.8095 - val_value_net_loss: 0.9120
+Epoch 51/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4088 - policy_net_loss: 1.5471 - value_net_loss: 0.8617 - val_loss: 2.7275 - val_policy_net_loss: 1.8140 - val_value_net_loss: 0.9135
+Epoch 52/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.4075 - policy_net_loss: 1.5454 - value_net_loss: 0.8621 - val_loss: 2.7338 - val_policy_net_loss: 1.8202 - val_value_net_loss: 0.9137
+Epoch 53/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3980 - policy_net_loss: 1.5387 - value_net_loss: 0.8593 - val_loss: 2.7483 - val_policy_net_loss: 1.8286 - val_value_net_loss: 0.9197
+Epoch 54/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3918 - policy_net_loss: 1.5332 - value_net_loss: 0.8586 - val_loss: 2.7471 - val_policy_net_loss: 1.8263 - val_value_net_loss: 0.9209
+Epoch 55/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3849 - policy_net_loss: 1.5292 - value_net_loss: 0.8557 - val_loss: 2.7657 - val_policy_net_loss: 1.8412 - val_value_net_loss: 0.9245
+Epoch 56/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3821 - policy_net_loss: 1.5250 - value_net_loss: 0.8571 - val_loss: 2.7569 - val_policy_net_loss: 1.8391 - val_value_net_loss: 0.9178
+Epoch 57/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3840 - policy_net_loss: 1.5267 - value_net_loss: 0.8573 - val_loss: 2.7484 - val_policy_net_loss: 1.8282 - val_value_net_loss: 0.9203
+Epoch 58/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3764 - policy_net_loss: 1.5207 - value_net_loss: 0.8557 - val_loss: 2.7615 - val_policy_net_loss: 1.8328 - val_value_net_loss: 0.9287
+Epoch 59/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3700 - policy_net_loss: 1.5161 - value_net_loss: 0.8539 - val_loss: 2.7615 - val_policy_net_loss: 1.8397 - val_value_net_loss: 0.9217
+Epoch 60/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3628 - policy_net_loss: 1.5110 - value_net_loss: 0.8518 - val_loss: 2.7588 - val_policy_net_loss: 1.8326 - val_value_net_loss: 0.9262
+Epoch 61/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3571 - policy_net_loss: 1.5089 - value_net_loss: 0.8482 - val_loss: 2.7574 - val_policy_net_loss: 1.8357 - val_value_net_loss: 0.9217
+Epoch 62/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3492 - policy_net_loss: 1.5018 - value_net_loss: 0.8474 - val_loss: 2.7742 - val_policy_net_loss: 1.8510 - val_value_net_loss: 0.9231
+Epoch 63/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3512 - policy_net_loss: 1.5029 - value_net_loss: 0.8482 - val_loss: 2.7690 - val_policy_net_loss: 1.8439 - val_value_net_loss: 0.9251
+Epoch 64/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3446 - policy_net_loss: 1.4991 - value_net_loss: 0.8455 - val_loss: 2.7850 - val_policy_net_loss: 1.8584 - val_value_net_loss: 0.9266
+Epoch 65/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3449 - policy_net_loss: 1.4975 - value_net_loss: 0.8474 - val_loss: 2.7788 - val_policy_net_loss: 1.8557 - val_value_net_loss: 0.9231
+Epoch 66/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3382 - policy_net_loss: 1.4928 - value_net_loss: 0.8454 - val_loss: 2.7827 - val_policy_net_loss: 1.8557 - val_value_net_loss: 0.9270
+Epoch 67/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3338 - policy_net_loss: 1.4905 - value_net_loss: 0.8433 - val_loss: 2.7940 - val_policy_net_loss: 1.8611 - val_value_net_loss: 0.9329
+Epoch 68/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3311 - policy_net_loss: 1.4856 - value_net_loss: 0.8455 - val_loss: 2.7966 - val_policy_net_loss: 1.8668 - val_value_net_loss: 0.9299
+Epoch 69/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3221 - policy_net_loss: 1.4813 - value_net_loss: 0.8409 - val_loss: 2.7970 - val_policy_net_loss: 1.8638 - val_value_net_loss: 0.9333
+Epoch 70/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3210 - policy_net_loss: 1.4800 - value_net_loss: 0.8411 - val_loss: 2.8068 - val_policy_net_loss: 1.8769 - val_value_net_loss: 0.9299
+Epoch 71/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.3208 - policy_net_loss: 1.4793 - value_net_loss: 0.8415 - val_loss: 2.7926 - val_policy_net_loss: 1.8671 - val_value_net_loss: 0.9255
+Epoch 72/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.3178 - policy_net_loss: 1.4773 - value_net_loss: 0.8405 - val_loss: 2.8038 - val_policy_net_loss: 1.8740 - val_value_net_loss: 0.9298
+Epoch 73/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3099 - policy_net_loss: 1.4719 - value_net_loss: 0.8380 - val_loss: 2.8102 - val_policy_net_loss: 1.8717 - val_value_net_loss: 0.9385
+Epoch 74/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.3056 - policy_net_loss: 1.4684 - value_net_loss: 0.8372 - val_loss: 2.8042 - val_policy_net_loss: 1.8699 - val_value_net_loss: 0.9343
+Epoch 75/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.3002 - policy_net_loss: 1.4664 - value_net_loss: 0.8338 - val_loss: 2.8133 - val_policy_net_loss: 1.8792 - val_value_net_loss: 0.9341
+Epoch 76/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.2996 - policy_net_loss: 1.4662 - value_net_loss: 0.8334 - val_loss: 2.8154 - val_policy_net_loss: 1.8791 - val_value_net_loss: 0.9362
+Epoch 77/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.2956 - policy_net_loss: 1.4610 - value_net_loss: 0.8345 - val_loss: 2.8146 - val_policy_net_loss: 1.8770 - val_value_net_loss: 0.9376
+Epoch 78/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2923 - policy_net_loss: 1.4579 - value_net_loss: 0.8344 - val_loss: 2.8109 - val_policy_net_loss: 1.8800 - val_value_net_loss: 0.9309
+Epoch 79/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2848 - policy_net_loss: 1.4525 - value_net_loss: 0.8323 - val_loss: 2.8101 - val_policy_net_loss: 1.8791 - val_value_net_loss: 0.9310
+Epoch 80/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2851 - policy_net_loss: 1.4521 - value_net_loss: 0.8330 - val_loss: 2.8118 - val_policy_net_loss: 1.8802 - val_value_net_loss: 0.9317
+Epoch 81/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2816 - policy_net_loss: 1.4514 - value_net_loss: 0.8302 - val_loss: 2.8277 - val_policy_net_loss: 1.8928 - val_value_net_loss: 0.9350
+Epoch 82/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2774 - policy_net_loss: 1.4479 - value_net_loss: 0.8295 - val_loss: 2.8276 - val_policy_net_loss: 1.8896 - val_value_net_loss: 0.9380
+Epoch 83/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2751 - policy_net_loss: 1.4452 - value_net_loss: 0.8300 - val_loss: 2.8380 - val_policy_net_loss: 1.9016 - val_value_net_loss: 0.9364
+Epoch 84/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2650 - policy_net_loss: 1.4389 - value_net_loss: 0.8261 - val_loss: 2.8442 - val_policy_net_loss: 1.8981 - val_value_net_loss: 0.9461
+Epoch 85/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2663 - policy_net_loss: 1.4422 - value_net_loss: 0.8241 - val_loss: 2.8266 - val_policy_net_loss: 1.8868 - val_value_net_loss: 0.9398
+Epoch 86/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2709 - policy_net_loss: 1.4449 - value_net_loss: 0.8260 - val_loss: 2.8441 - val_policy_net_loss: 1.8963 - val_value_net_loss: 0.9478
+Epoch 87/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2659 - policy_net_loss: 1.4404 - value_net_loss: 0.8255 - val_loss: 2.8340 - val_policy_net_loss: 1.8904 - val_value_net_loss: 0.9437
+Epoch 88/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2619 - policy_net_loss: 1.4353 - value_net_loss: 0.8265 - val_loss: 2.8420 - val_policy_net_loss: 1.9003 - val_value_net_loss: 0.9417
+Epoch 89/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2552 - policy_net_loss: 1.4303 - value_net_loss: 0.8249 - val_loss: 2.8493 - val_policy_net_loss: 1.9041 - val_value_net_loss: 0.9452
+Epoch 90/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.2549 - policy_net_loss: 1.4318 - value_net_loss: 0.8231 - val_loss: 2.8492 - val_policy_net_loss: 1.9000 - val_value_net_loss: 0.9492
+Epoch 91/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2483 - policy_net_loss: 1.4277 - value_net_loss: 0.8206 - val_loss: 2.8457 - val_policy_net_loss: 1.9016 - val_value_net_loss: 0.9441
+Epoch 92/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2478 - policy_net_loss: 1.4267 - value_net_loss: 0.8211 - val_loss: 2.8487 - val_policy_net_loss: 1.9005 - val_value_net_loss: 0.9482
+Epoch 93/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.2487 - policy_net_loss: 1.4269 - value_net_loss: 0.8218 - val_loss: 2.8563 - val_policy_net_loss: 1.9085 - val_value_net_loss: 0.9478
+Epoch 94/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2358 - policy_net_loss: 1.4162 - value_net_loss: 0.8197 - val_loss: 2.8711 - val_policy_net_loss: 1.9208 - val_value_net_loss: 0.9503
+Epoch 95/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2371 - policy_net_loss: 1.4190 - value_net_loss: 0.8181 - val_loss: 2.8686 - val_policy_net_loss: 1.9171 - val_value_net_loss: 0.9515
+Epoch 96/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2359 - policy_net_loss: 1.4191 - value_net_loss: 0.8168 - val_loss: 2.8711 - val_policy_net_loss: 1.9223 - val_value_net_loss: 0.9489
+Epoch 97/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2261 - policy_net_loss: 1.4114 - value_net_loss: 0.8147 - val_loss: 2.8743 - val_policy_net_loss: 1.9199 - val_value_net_loss: 0.9544
+Epoch 98/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2295 - policy_net_loss: 1.4135 - value_net_loss: 0.8160 - val_loss: 2.8645 - val_policy_net_loss: 1.9194 - val_value_net_loss: 0.9451
+Epoch 99/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2243 - policy_net_loss: 1.4104 - value_net_loss: 0.8139 - val_loss: 2.8700 - val_policy_net_loss: 1.9169 - val_value_net_loss: 0.9531
+Epoch 100/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2229 - policy_net_loss: 1.4068 - value_net_loss: 0.8160 - val_loss: 2.8891 - val_policy_net_loss: 1.9347 - val_value_net_loss: 0.9543
+Epoch 101/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2202 - policy_net_loss: 1.4042 - value_net_loss: 0.8160 - val_loss: 2.8746 - val_policy_net_loss: 1.9220 - val_value_net_loss: 0.9527
+Epoch 102/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2098 - policy_net_loss: 1.3984 - value_net_loss: 0.8115 - val_loss: 2.8990 - val_policy_net_loss: 1.9409 - val_value_net_loss: 0.9582
+Epoch 103/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.2144 - policy_net_loss: 1.4016 - value_net_loss: 0.8128 - val_loss: 2.8710 - val_policy_net_loss: 1.9152 - val_value_net_loss: 0.9559
+Epoch 104/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.2141 - policy_net_loss: 1.4029 - value_net_loss: 0.8112 - val_loss: 2.8803 - val_policy_net_loss: 1.9318 - val_value_net_loss: 0.9485
+Epoch 105/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2064 - policy_net_loss: 1.3981 - value_net_loss: 0.8083 - val_loss: 2.8844 - val_policy_net_loss: 1.9247 - val_value_net_loss: 0.9597
+Epoch 106/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2080 - policy_net_loss: 1.3988 - value_net_loss: 0.8092 - val_loss: 2.8901 - val_policy_net_loss: 1.9287 - val_value_net_loss: 0.9614
+Epoch 107/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2100 - policy_net_loss: 1.3997 - value_net_loss: 0.8102 - val_loss: 2.8817 - val_policy_net_loss: 1.9236 - val_value_net_loss: 0.9582
+Epoch 108/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.2010 - policy_net_loss: 1.3936 - value_net_loss: 0.8074 - val_loss: 2.8912 - val_policy_net_loss: 1.9256 - val_value_net_loss: 0.9655
+Epoch 109/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1975 - policy_net_loss: 1.3896 - value_net_loss: 0.8079 - val_loss: 2.9059 - val_policy_net_loss: 1.9454 - val_value_net_loss: 0.9605
+Epoch 110/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1966 - policy_net_loss: 1.3894 - value_net_loss: 0.8072 - val_loss: 2.9027 - val_policy_net_loss: 1.9360 - val_value_net_loss: 0.9667
+Epoch 111/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1964 - policy_net_loss: 1.3883 - value_net_loss: 0.8081 - val_loss: 2.9005 - val_policy_net_loss: 1.9355 - val_value_net_loss: 0.9649
+Epoch 112/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1856 - policy_net_loss: 1.3813 - value_net_loss: 0.8043 - val_loss: 2.9148 - val_policy_net_loss: 1.9434 - val_value_net_loss: 0.9714
+Epoch 113/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1908 - policy_net_loss: 1.3873 - value_net_loss: 0.8036 - val_loss: 2.9082 - val_policy_net_loss: 1.9404 - val_value_net_loss: 0.9679
+Epoch 114/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1848 - policy_net_loss: 1.3816 - value_net_loss: 0.8031 - val_loss: 2.9238 - val_policy_net_loss: 1.9470 - val_value_net_loss: 0.9767
+Epoch 115/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1862 - policy_net_loss: 1.3851 - value_net_loss: 0.8011 - val_loss: 2.9133 - val_policy_net_loss: 1.9469 - val_value_net_loss: 0.9663
+Epoch 116/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1812 - policy_net_loss: 1.3794 - value_net_loss: 0.8019 - val_loss: 2.9177 - val_policy_net_loss: 1.9496 - val_value_net_loss: 0.9681
+Epoch 117/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1819 - policy_net_loss: 1.3813 - value_net_loss: 0.8006 - val_loss: 2.9255 - val_policy_net_loss: 1.9482 - val_value_net_loss: 0.9774
+Epoch 118/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1750 - policy_net_loss: 1.3741 - value_net_loss: 0.8009 - val_loss: 2.9188 - val_policy_net_loss: 1.9560 - val_value_net_loss: 0.9629
+Epoch 119/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.1732 - policy_net_loss: 1.3726 - value_net_loss: 0.8006 - val_loss: 2.9437 - val_policy_net_loss: 1.9692 - val_value_net_loss: 0.9745
+Epoch 120/400
+1200/1200 [==============================] - 10s 9ms/step - loss: 2.1708 - policy_net_loss: 1.3726 - value_net_loss: 0.7982 - val_loss: 2.9290 - val_policy_net_loss: 1.9598 - val_value_net_loss: 0.9692
+Epoch 121/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1673 - policy_net_loss: 1.3669 - value_net_loss: 0.8004 - val_loss: 2.9490 - val_policy_net_loss: 1.9721 - val_value_net_loss: 0.9769
+Epoch 122/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1680 - policy_net_loss: 1.3705 - value_net_loss: 0.7975 - val_loss: 2.9426 - val_policy_net_loss: 1.9672 - val_value_net_loss: 0.9754
+Epoch 123/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1649 - policy_net_loss: 1.3691 - value_net_loss: 0.7958 - val_loss: 2.9451 - val_policy_net_loss: 1.9686 - val_value_net_loss: 0.9765
+Epoch 124/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1568 - policy_net_loss: 1.3625 - value_net_loss: 0.7943 - val_loss: 2.9433 - val_policy_net_loss: 1.9717 - val_value_net_loss: 0.9716
+Epoch 125/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1652 - policy_net_loss: 1.3678 - value_net_loss: 0.7974 - val_loss: 2.9507 - val_policy_net_loss: 1.9782 - val_value_net_loss: 0.9725
+Epoch 126/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1572 - policy_net_loss: 1.3625 - value_net_loss: 0.7947 - val_loss: 2.9444 - val_policy_net_loss: 1.9653 - val_value_net_loss: 0.9791
+Epoch 127/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1540 - policy_net_loss: 1.3608 - value_net_loss: 0.7932 - val_loss: 2.9759 - val_policy_net_loss: 1.9825 - val_value_net_loss: 0.9934
+Epoch 128/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1530 - policy_net_loss: 1.3576 - value_net_loss: 0.7953 - val_loss: 2.9615 - val_policy_net_loss: 1.9758 - val_value_net_loss: 0.9858
+Epoch 129/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1561 - policy_net_loss: 1.3602 - value_net_loss: 0.7960 - val_loss: 2.9390 - val_policy_net_loss: 1.9639 - val_value_net_loss: 0.9751
+Epoch 130/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1515 - policy_net_loss: 1.3603 - value_net_loss: 0.7912 - val_loss: 2.9500 - val_policy_net_loss: 1.9628 - val_value_net_loss: 0.9872
+Epoch 131/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1463 - policy_net_loss: 1.3553 - value_net_loss: 0.7910 - val_loss: 2.9719 - val_policy_net_loss: 1.9846 - val_value_net_loss: 0.9874
+Epoch 132/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1477 - policy_net_loss: 1.3545 - value_net_loss: 0.7931 - val_loss: 2.9561 - val_policy_net_loss: 1.9661 - val_value_net_loss: 0.9900
+Epoch 133/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1429 - policy_net_loss: 1.3544 - value_net_loss: 0.7885 - val_loss: 2.9742 - val_policy_net_loss: 1.9778 - val_value_net_loss: 0.9964
+Epoch 134/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1417 - policy_net_loss: 1.3521 - value_net_loss: 0.7896 - val_loss: 2.9640 - val_policy_net_loss: 1.9795 - val_value_net_loss: 0.9845
+Epoch 135/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1366 - policy_net_loss: 1.3493 - value_net_loss: 0.7873 - val_loss: 2.9615 - val_policy_net_loss: 1.9792 - val_value_net_loss: 0.9823
+Epoch 136/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1375 - policy_net_loss: 1.3497 - value_net_loss: 0.7877 - val_loss: 2.9599 - val_policy_net_loss: 1.9696 - val_value_net_loss: 0.9902
+Epoch 137/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1384 - policy_net_loss: 1.3490 - value_net_loss: 0.7894 - val_loss: 2.9878 - val_policy_net_loss: 1.9940 - val_value_net_loss: 0.9938
+Epoch 138/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1340 - policy_net_loss: 1.3472 - value_net_loss: 0.7868 - val_loss: 2.9752 - val_policy_net_loss: 1.9889 - val_value_net_loss: 0.9864
+Epoch 139/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1300 - policy_net_loss: 1.3456 - value_net_loss: 0.7844 - val_loss: 2.9768 - val_policy_net_loss: 1.9800 - val_value_net_loss: 0.9968
+Epoch 140/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.1299 - policy_net_loss: 1.3441 - value_net_loss: 0.7858 - val_loss: 2.9911 - val_policy_net_loss: 1.9955 - val_value_net_loss: 0.9956
+Epoch 141/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1319 - policy_net_loss: 1.3456 - value_net_loss: 0.7863 - val_loss: 2.9902 - val_policy_net_loss: 2.0000 - val_value_net_loss: 0.9902
+Epoch 142/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1303 - policy_net_loss: 1.3460 - value_net_loss: 0.7843 - val_loss: 2.9912 - val_policy_net_loss: 1.9986 - val_value_net_loss: 0.9927
+Epoch 143/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1264 - policy_net_loss: 1.3410 - value_net_loss: 0.7854 - val_loss: 2.9934 - val_policy_net_loss: 1.9991 - val_value_net_loss: 0.9944
+Epoch 144/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.1226 - policy_net_loss: 1.3378 - value_net_loss: 0.7848 - val_loss: 2.9888 - val_policy_net_loss: 1.9968 - val_value_net_loss: 0.9920
+Epoch 145/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1260 - policy_net_loss: 1.3397 - value_net_loss: 0.7863 - val_loss: 2.9925 - val_policy_net_loss: 1.9961 - val_value_net_loss: 0.9964
+Epoch 146/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1210 - policy_net_loss: 1.3384 - value_net_loss: 0.7825 - val_loss: 2.9912 - val_policy_net_loss: 1.9999 - val_value_net_loss: 0.9913
+Epoch 147/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1123 - policy_net_loss: 1.3332 - value_net_loss: 0.7791 - val_loss: 2.9838 - val_policy_net_loss: 1.9917 - val_value_net_loss: 0.9920
+Epoch 148/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.1152 - policy_net_loss: 1.3333 - value_net_loss: 0.7819 - val_loss: 2.9900 - val_policy_net_loss: 1.9968 - val_value_net_loss: 0.9932
+Epoch 149/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1114 - policy_net_loss: 1.3325 - value_net_loss: 0.7788 - val_loss: 3.0110 - val_policy_net_loss: 2.0034 - val_value_net_loss: 1.0075
+Epoch 150/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1097 - policy_net_loss: 1.3296 - value_net_loss: 0.7800 - val_loss: 3.0008 - val_policy_net_loss: 1.9989 - val_value_net_loss: 1.0020
+Epoch 151/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1072 - policy_net_loss: 1.3300 - value_net_loss: 0.7772 - val_loss: 3.0108 - val_policy_net_loss: 2.0041 - val_value_net_loss: 1.0066
+Epoch 152/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.1122 - policy_net_loss: 1.3316 - value_net_loss: 0.7806 - val_loss: 2.9980 - val_policy_net_loss: 1.9999 - val_value_net_loss: 0.9981
+Epoch 153/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1056 - policy_net_loss: 1.3273 - value_net_loss: 0.7783 - val_loss: 3.0122 - val_policy_net_loss: 2.0066 - val_value_net_loss: 1.0056
+Epoch 154/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1094 - policy_net_loss: 1.3306 - value_net_loss: 0.7788 - val_loss: 2.9979 - val_policy_net_loss: 1.9920 - val_value_net_loss: 1.0059
+Epoch 155/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1114 - policy_net_loss: 1.3324 - value_net_loss: 0.7790 - val_loss: 2.9961 - val_policy_net_loss: 1.9965 - val_value_net_loss: 0.9997
+Epoch 156/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1039 - policy_net_loss: 1.3271 - value_net_loss: 0.7767 - val_loss: 2.9962 - val_policy_net_loss: 2.0016 - val_value_net_loss: 0.9945
+Epoch 157/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1003 - policy_net_loss: 1.3257 - value_net_loss: 0.7746 - val_loss: 3.0186 - val_policy_net_loss: 2.0133 - val_value_net_loss: 1.0053
+Epoch 158/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1005 - policy_net_loss: 1.3236 - value_net_loss: 0.7770 - val_loss: 3.0138 - val_policy_net_loss: 2.0105 - val_value_net_loss: 1.0033
+Epoch 159/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.1117 - policy_net_loss: 1.3330 - value_net_loss: 0.7786 - val_loss: 2.9999 - val_policy_net_loss: 1.9994 - val_value_net_loss: 1.0005
+Epoch 160/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0937 - policy_net_loss: 1.3205 - value_net_loss: 0.7732 - val_loss: 3.0123 - val_policy_net_loss: 2.0043 - val_value_net_loss: 1.0080
+Epoch 161/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0941 - policy_net_loss: 1.3202 - value_net_loss: 0.7739 - val_loss: 3.0184 - val_policy_net_loss: 2.0156 - val_value_net_loss: 1.0028
+Epoch 162/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0923 - policy_net_loss: 1.3194 - value_net_loss: 0.7730 - val_loss: 3.0172 - val_policy_net_loss: 2.0130 - val_value_net_loss: 1.0042
+Epoch 163/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0906 - policy_net_loss: 1.3160 - value_net_loss: 0.7746 - val_loss: 3.0129 - val_policy_net_loss: 2.0118 - val_value_net_loss: 1.0011
+Epoch 164/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0963 - policy_net_loss: 1.3226 - value_net_loss: 0.7737 - val_loss: 3.0141 - val_policy_net_loss: 2.0064 - val_value_net_loss: 1.0077
+Epoch 165/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0872 - policy_net_loss: 1.3135 - value_net_loss: 0.7737 - val_loss: 3.0260 - val_policy_net_loss: 2.0213 - val_value_net_loss: 1.0047
+Epoch 166/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0886 - policy_net_loss: 1.3145 - value_net_loss: 0.7741 - val_loss: 3.0365 - val_policy_net_loss: 2.0229 - val_value_net_loss: 1.0135
+Epoch 167/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0841 - policy_net_loss: 1.3127 - value_net_loss: 0.7714 - val_loss: 3.0220 - val_policy_net_loss: 2.0173 - val_value_net_loss: 1.0046
+Epoch 168/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0859 - policy_net_loss: 1.3159 - value_net_loss: 0.7700 - val_loss: 3.0344 - val_policy_net_loss: 2.0181 - val_value_net_loss: 1.0163
+Epoch 169/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0869 - policy_net_loss: 1.3159 - value_net_loss: 0.7710 - val_loss: 3.0167 - val_policy_net_loss: 2.0097 - val_value_net_loss: 1.0070
+Epoch 170/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0747 - policy_net_loss: 1.3084 - value_net_loss: 0.7663 - val_loss: 3.0322 - val_policy_net_loss: 2.0189 - val_value_net_loss: 1.0133
+Epoch 171/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0825 - policy_net_loss: 1.3130 - value_net_loss: 0.7695 - val_loss: 3.0313 - val_policy_net_loss: 2.0226 - val_value_net_loss: 1.0086
+Epoch 172/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0793 - policy_net_loss: 1.3107 - value_net_loss: 0.7686 - val_loss: 3.0438 - val_policy_net_loss: 2.0265 - val_value_net_loss: 1.0173
+Epoch 173/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0772 - policy_net_loss: 1.3069 - value_net_loss: 0.7703 - val_loss: 3.0398 - val_policy_net_loss: 2.0328 - val_value_net_loss: 1.0070
+Epoch 174/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0722 - policy_net_loss: 1.3057 - value_net_loss: 0.7665 - val_loss: 3.0523 - val_policy_net_loss: 2.0359 - val_value_net_loss: 1.0164
+Epoch 175/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0759 - policy_net_loss: 1.3105 - value_net_loss: 0.7654 - val_loss: 3.0483 - val_policy_net_loss: 2.0287 - val_value_net_loss: 1.0195
+Epoch 176/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0767 - policy_net_loss: 1.3115 - value_net_loss: 0.7652 - val_loss: 3.0479 - val_policy_net_loss: 2.0358 - val_value_net_loss: 1.0121
+Epoch 177/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0683 - policy_net_loss: 1.3037 - value_net_loss: 0.7645 - val_loss: 3.0515 - val_policy_net_loss: 2.0373 - val_value_net_loss: 1.0142
+Epoch 178/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0679 - policy_net_loss: 1.3022 - value_net_loss: 0.7657 - val_loss: 3.0586 - val_policy_net_loss: 2.0355 - val_value_net_loss: 1.0231
+Epoch 179/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0726 - policy_net_loss: 1.3034 - value_net_loss: 0.7692 - val_loss: 3.0449 - val_policy_net_loss: 2.0258 - val_value_net_loss: 1.0191
+Epoch 180/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0691 - policy_net_loss: 1.3059 - value_net_loss: 0.7632 - val_loss: 3.0435 - val_policy_net_loss: 2.0252 - val_value_net_loss: 1.0184
+Epoch 181/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0630 - policy_net_loss: 1.2986 - value_net_loss: 0.7643 - val_loss: 3.0786 - val_policy_net_loss: 2.0527 - val_value_net_loss: 1.0260
+Epoch 182/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0596 - policy_net_loss: 1.2972 - value_net_loss: 0.7624 - val_loss: 3.0628 - val_policy_net_loss: 2.0395 - val_value_net_loss: 1.0233
+Epoch 183/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0542 - policy_net_loss: 1.2948 - value_net_loss: 0.7595 - val_loss: 3.0610 - val_policy_net_loss: 2.0376 - val_value_net_loss: 1.0234
+Epoch 184/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0617 - policy_net_loss: 1.3000 - value_net_loss: 0.7617 - val_loss: 3.0577 - val_policy_net_loss: 2.0323 - val_value_net_loss: 1.0254
+Epoch 185/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0661 - policy_net_loss: 1.3045 - value_net_loss: 0.7616 - val_loss: 3.0564 - val_policy_net_loss: 2.0330 - val_value_net_loss: 1.0233
+Epoch 186/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0549 - policy_net_loss: 1.2978 - value_net_loss: 0.7572 - val_loss: 3.0720 - val_policy_net_loss: 2.0472 - val_value_net_loss: 1.0248
+Epoch 187/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0537 - policy_net_loss: 1.2971 - value_net_loss: 0.7566 - val_loss: 3.0630 - val_policy_net_loss: 2.0357 - val_value_net_loss: 1.0274
+Epoch 188/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0555 - policy_net_loss: 1.2980 - value_net_loss: 0.7575 - val_loss: 3.0588 - val_policy_net_loss: 2.0323 - val_value_net_loss: 1.0265
+Epoch 189/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0481 - policy_net_loss: 1.2908 - value_net_loss: 0.7573 - val_loss: 3.0901 - val_policy_net_loss: 2.0595 - val_value_net_loss: 1.0306
+Epoch 190/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0523 - policy_net_loss: 1.2923 - value_net_loss: 0.7600 - val_loss: 3.0576 - val_policy_net_loss: 2.0344 - val_value_net_loss: 1.0232
+Epoch 191/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0555 - policy_net_loss: 1.2959 - value_net_loss: 0.7596 - val_loss: 3.0738 - val_policy_net_loss: 2.0477 - val_value_net_loss: 1.0262
+Epoch 192/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0427 - policy_net_loss: 1.2892 - value_net_loss: 0.7535 - val_loss: 3.0870 - val_policy_net_loss: 2.0454 - val_value_net_loss: 1.0416
+Epoch 193/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0497 - policy_net_loss: 1.2916 - value_net_loss: 0.7581 - val_loss: 3.0820 - val_policy_net_loss: 2.0482 - val_value_net_loss: 1.0339
+Epoch 194/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0464 - policy_net_loss: 1.2868 - value_net_loss: 0.7595 - val_loss: 3.0848 - val_policy_net_loss: 2.0517 - val_value_net_loss: 1.0331
+Epoch 195/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0400 - policy_net_loss: 1.2846 - value_net_loss: 0.7554 - val_loss: 3.0832 - val_policy_net_loss: 2.0507 - val_value_net_loss: 1.0325
+Epoch 196/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0393 - policy_net_loss: 1.2867 - value_net_loss: 0.7526 - val_loss: 3.0758 - val_policy_net_loss: 2.0496 - val_value_net_loss: 1.0262
+Epoch 197/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0482 - policy_net_loss: 1.2911 - value_net_loss: 0.7571 - val_loss: 3.0671 - val_policy_net_loss: 2.0434 - val_value_net_loss: 1.0237
+Epoch 198/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0353 - policy_net_loss: 1.2830 - value_net_loss: 0.7523 - val_loss: 3.0877 - val_policy_net_loss: 2.0546 - val_value_net_loss: 1.0331
+Epoch 199/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0448 - policy_net_loss: 1.2885 - value_net_loss: 0.7563 - val_loss: 3.0863 - val_policy_net_loss: 2.0455 - val_value_net_loss: 1.0408
+Epoch 200/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0406 - policy_net_loss: 1.2840 - value_net_loss: 0.7566 - val_loss: 3.0736 - val_policy_net_loss: 2.0431 - val_value_net_loss: 1.0305
+Epoch 201/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0392 - policy_net_loss: 1.2852 - value_net_loss: 0.7541 - val_loss: 3.1151 - val_policy_net_loss: 2.0691 - val_value_net_loss: 1.0460
+Epoch 202/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0353 - policy_net_loss: 1.2827 - value_net_loss: 0.7527 - val_loss: 3.0907 - val_policy_net_loss: 2.0567 - val_value_net_loss: 1.0340
+Epoch 203/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0413 - policy_net_loss: 1.2885 - value_net_loss: 0.7528 - val_loss: 3.0746 - val_policy_net_loss: 2.0419 - val_value_net_loss: 1.0327
+Epoch 204/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0370 - policy_net_loss: 1.2828 - value_net_loss: 0.7542 - val_loss: 3.0933 - val_policy_net_loss: 2.0602 - val_value_net_loss: 1.0332
+Epoch 205/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0327 - policy_net_loss: 1.2809 - value_net_loss: 0.7518 - val_loss: 3.0969 - val_policy_net_loss: 2.0599 - val_value_net_loss: 1.0370
+Epoch 206/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0320 - policy_net_loss: 1.2823 - value_net_loss: 0.7497 - val_loss: 3.0936 - val_policy_net_loss: 2.0508 - val_value_net_loss: 1.0427
+Epoch 207/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0254 - policy_net_loss: 1.2770 - value_net_loss: 0.7485 - val_loss: 3.0891 - val_policy_net_loss: 2.0558 - val_value_net_loss: 1.0333
+Epoch 208/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0279 - policy_net_loss: 1.2745 - value_net_loss: 0.7534 - val_loss: 3.1058 - val_policy_net_loss: 2.0671 - val_value_net_loss: 1.0387
+Epoch 209/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0261 - policy_net_loss: 1.2767 - value_net_loss: 0.7494 - val_loss: 3.1005 - val_policy_net_loss: 2.0565 - val_value_net_loss: 1.0440
+Epoch 210/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0213 - policy_net_loss: 1.2759 - value_net_loss: 0.7454 - val_loss: 3.1155 - val_policy_net_loss: 2.0708 - val_value_net_loss: 1.0447
+Epoch 211/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0199 - policy_net_loss: 1.2732 - value_net_loss: 0.7467 - val_loss: 3.0979 - val_policy_net_loss: 2.0576 - val_value_net_loss: 1.0403
+Epoch 212/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0276 - policy_net_loss: 1.2769 - value_net_loss: 0.7506 - val_loss: 3.1159 - val_policy_net_loss: 2.0610 - val_value_net_loss: 1.0549
+Epoch 213/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0256 - policy_net_loss: 1.2769 - value_net_loss: 0.7488 - val_loss: 3.1129 - val_policy_net_loss: 2.0675 - val_value_net_loss: 1.0454
+Epoch 214/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0210 - policy_net_loss: 1.2731 - value_net_loss: 0.7479 - val_loss: 3.1094 - val_policy_net_loss: 2.0609 - val_value_net_loss: 1.0484
+Epoch 215/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0226 - policy_net_loss: 1.2756 - value_net_loss: 0.7470 - val_loss: 3.1093 - val_policy_net_loss: 2.0638 - val_value_net_loss: 1.0455
+Epoch 216/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0169 - policy_net_loss: 1.2702 - value_net_loss: 0.7467 - val_loss: 3.1223 - val_policy_net_loss: 2.0718 - val_value_net_loss: 1.0504
+Epoch 217/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0176 - policy_net_loss: 1.2712 - value_net_loss: 0.7464 - val_loss: 3.1263 - val_policy_net_loss: 2.0746 - val_value_net_loss: 1.0517
+Epoch 218/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0137 - policy_net_loss: 1.2687 - value_net_loss: 0.7450 - val_loss: 3.1055 - val_policy_net_loss: 2.0594 - val_value_net_loss: 1.0460
+Epoch 219/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0154 - policy_net_loss: 1.2720 - value_net_loss: 0.7434 - val_loss: 3.1105 - val_policy_net_loss: 2.0674 - val_value_net_loss: 1.0432
+Epoch 220/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0181 - policy_net_loss: 1.2728 - value_net_loss: 0.7453 - val_loss: 3.1196 - val_policy_net_loss: 2.0706 - val_value_net_loss: 1.0490
+Epoch 221/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0196 - policy_net_loss: 1.2714 - value_net_loss: 0.7482 - val_loss: 3.1264 - val_policy_net_loss: 2.0769 - val_value_net_loss: 1.0495
+Epoch 222/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0131 - policy_net_loss: 1.2682 - value_net_loss: 0.7449 - val_loss: 3.1168 - val_policy_net_loss: 2.0686 - val_value_net_loss: 1.0482
+Epoch 223/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 2.0069 - policy_net_loss: 1.2626 - value_net_loss: 0.7443 - val_loss: 3.1217 - val_policy_net_loss: 2.0773 - val_value_net_loss: 1.0444
+Epoch 224/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0211 - policy_net_loss: 1.2743 - value_net_loss: 0.7468 - val_loss: 3.1164 - val_policy_net_loss: 2.0680 - val_value_net_loss: 1.0484
+Epoch 225/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0112 - policy_net_loss: 1.2704 - value_net_loss: 0.7408 - val_loss: 3.1120 - val_policy_net_loss: 2.0645 - val_value_net_loss: 1.0476
+Epoch 226/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0097 - policy_net_loss: 1.2674 - value_net_loss: 0.7423 - val_loss: 3.1304 - val_policy_net_loss: 2.0728 - val_value_net_loss: 1.0576
+Epoch 227/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0100 - policy_net_loss: 1.2691 - value_net_loss: 0.7409 - val_loss: 3.1279 - val_policy_net_loss: 2.0701 - val_value_net_loss: 1.0578
+Epoch 228/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0072 - policy_net_loss: 1.2649 - value_net_loss: 0.7423 - val_loss: 3.1206 - val_policy_net_loss: 2.0640 - val_value_net_loss: 1.0567
+Epoch 229/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0098 - policy_net_loss: 1.2671 - value_net_loss: 0.7427 - val_loss: 3.1212 - val_policy_net_loss: 2.0676 - val_value_net_loss: 1.0536
+Epoch 230/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0042 - policy_net_loss: 1.2623 - value_net_loss: 0.7419 - val_loss: 3.1235 - val_policy_net_loss: 2.0732 - val_value_net_loss: 1.0503
+Epoch 231/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 2.0010 - policy_net_loss: 1.2652 - value_net_loss: 0.7358 - val_loss: 3.1466 - val_policy_net_loss: 2.0829 - val_value_net_loss: 1.0637
+Epoch 232/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0124 - policy_net_loss: 1.2687 - value_net_loss: 0.7436 - val_loss: 3.1120 - val_policy_net_loss: 2.0623 - val_value_net_loss: 1.0497
+Epoch 233/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 2.0009 - policy_net_loss: 1.2607 - value_net_loss: 0.7402 - val_loss: 3.1255 - val_policy_net_loss: 2.0742 - val_value_net_loss: 1.0512
+Epoch 234/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9977 - policy_net_loss: 1.2586 - value_net_loss: 0.7391 - val_loss: 3.1259 - val_policy_net_loss: 2.0702 - val_value_net_loss: 1.0557
+Epoch 235/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9924 - policy_net_loss: 1.2554 - value_net_loss: 0.7371 - val_loss: 3.1484 - val_policy_net_loss: 2.0894 - val_value_net_loss: 1.0590
+Epoch 236/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9995 - policy_net_loss: 1.2579 - value_net_loss: 0.7417 - val_loss: 3.1475 - val_policy_net_loss: 2.0841 - val_value_net_loss: 1.0634
+Epoch 237/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9990 - policy_net_loss: 1.2601 - value_net_loss: 0.7389 - val_loss: 3.1381 - val_policy_net_loss: 2.0774 - val_value_net_loss: 1.0607
+Epoch 238/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9991 - policy_net_loss: 1.2611 - value_net_loss: 0.7380 - val_loss: 3.1458 - val_policy_net_loss: 2.0846 - val_value_net_loss: 1.0613
+Epoch 239/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9974 - policy_net_loss: 1.2582 - value_net_loss: 0.7392 - val_loss: 3.1445 - val_policy_net_loss: 2.0895 - val_value_net_loss: 1.0550
+Epoch 240/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9892 - policy_net_loss: 1.2545 - value_net_loss: 0.7347 - val_loss: 3.1595 - val_policy_net_loss: 2.0925 - val_value_net_loss: 1.0670
+Epoch 241/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9905 - policy_net_loss: 1.2493 - value_net_loss: 0.7413 - val_loss: 3.1565 - val_policy_net_loss: 2.0982 - val_value_net_loss: 1.0583
+Epoch 242/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9986 - policy_net_loss: 1.2599 - value_net_loss: 0.7387 - val_loss: 3.1441 - val_policy_net_loss: 2.0894 - val_value_net_loss: 1.0547
+Epoch 243/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9941 - policy_net_loss: 1.2578 - value_net_loss: 0.7364 - val_loss: 3.1385 - val_policy_net_loss: 2.0786 - val_value_net_loss: 1.0599
+Epoch 244/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9916 - policy_net_loss: 1.2553 - value_net_loss: 0.7363 - val_loss: 3.1485 - val_policy_net_loss: 2.0912 - val_value_net_loss: 1.0573
+Epoch 245/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9952 - policy_net_loss: 1.2562 - value_net_loss: 0.7390 - val_loss: 3.1402 - val_policy_net_loss: 2.0788 - val_value_net_loss: 1.0615
+Epoch 246/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9919 - policy_net_loss: 1.2579 - value_net_loss: 0.7340 - val_loss: 3.1330 - val_policy_net_loss: 2.0753 - val_value_net_loss: 1.0577
+Epoch 247/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9882 - policy_net_loss: 1.2534 - value_net_loss: 0.7348 - val_loss: 3.1711 - val_policy_net_loss: 2.0950 - val_value_net_loss: 1.0761
+Epoch 248/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9815 - policy_net_loss: 1.2511 - value_net_loss: 0.7304 - val_loss: 3.1595 - val_policy_net_loss: 2.0907 - val_value_net_loss: 1.0688
+Epoch 249/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9813 - policy_net_loss: 1.2486 - value_net_loss: 0.7327 - val_loss: 3.1662 - val_policy_net_loss: 2.0952 - val_value_net_loss: 1.0710
+Epoch 250/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9889 - policy_net_loss: 1.2561 - value_net_loss: 0.7328 - val_loss: 3.1555 - val_policy_net_loss: 2.0834 - val_value_net_loss: 1.0721
+Epoch 251/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9809 - policy_net_loss: 1.2484 - value_net_loss: 0.7325 - val_loss: 3.1747 - val_policy_net_loss: 2.1042 - val_value_net_loss: 1.0705
+Epoch 252/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9781 - policy_net_loss: 1.2474 - value_net_loss: 0.7307 - val_loss: 3.1678 - val_policy_net_loss: 2.0980 - val_value_net_loss: 1.0698
+Epoch 253/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9838 - policy_net_loss: 1.2478 - value_net_loss: 0.7360 - val_loss: 3.1529 - val_policy_net_loss: 2.0857 - val_value_net_loss: 1.0672
+Epoch 254/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9857 - policy_net_loss: 1.2495 - value_net_loss: 0.7361 - val_loss: 3.1402 - val_policy_net_loss: 2.0848 - val_value_net_loss: 1.0554
+Epoch 255/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9777 - policy_net_loss: 1.2463 - value_net_loss: 0.7313 - val_loss: 3.1535 - val_policy_net_loss: 2.0885 - val_value_net_loss: 1.0650
+Epoch 256/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9811 - policy_net_loss: 1.2504 - value_net_loss: 0.7307 - val_loss: 3.1496 - val_policy_net_loss: 2.0733 - val_value_net_loss: 1.0763
+Epoch 257/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9730 - policy_net_loss: 1.2428 - value_net_loss: 0.7302 - val_loss: 3.1628 - val_policy_net_loss: 2.0893 - val_value_net_loss: 1.0735
+Epoch 258/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9752 - policy_net_loss: 1.2443 - value_net_loss: 0.7308 - val_loss: 3.1638 - val_policy_net_loss: 2.0935 - val_value_net_loss: 1.0703
+Epoch 259/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9730 - policy_net_loss: 1.2435 - value_net_loss: 0.7295 - val_loss: 3.1650 - val_policy_net_loss: 2.0965 - val_value_net_loss: 1.0685
+Epoch 260/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9733 - policy_net_loss: 1.2437 - value_net_loss: 0.7296 - val_loss: 3.1623 - val_policy_net_loss: 2.0883 - val_value_net_loss: 1.0739
+Epoch 261/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9750 - policy_net_loss: 1.2473 - value_net_loss: 0.7276 - val_loss: 3.1896 - val_policy_net_loss: 2.1068 - val_value_net_loss: 1.0828
+Epoch 262/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9715 - policy_net_loss: 1.2443 - value_net_loss: 0.7272 - val_loss: 3.1768 - val_policy_net_loss: 2.1029 - val_value_net_loss: 1.0739
+Epoch 263/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9725 - policy_net_loss: 1.2450 - value_net_loss: 0.7275 - val_loss: 3.1743 - val_policy_net_loss: 2.0955 - val_value_net_loss: 1.0788
+Epoch 264/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9704 - policy_net_loss: 1.2420 - value_net_loss: 0.7285 - val_loss: 3.1888 - val_policy_net_loss: 2.1174 - val_value_net_loss: 1.0715
+Epoch 265/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9775 - policy_net_loss: 1.2510 - value_net_loss: 0.7265 - val_loss: 3.1848 - val_policy_net_loss: 2.1106 - val_value_net_loss: 1.0742
+Epoch 266/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9755 - policy_net_loss: 1.2483 - value_net_loss: 0.7272 - val_loss: 3.1980 - val_policy_net_loss: 2.1131 - val_value_net_loss: 1.0849
+Epoch 267/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9715 - policy_net_loss: 1.2444 - value_net_loss: 0.7271 - val_loss: 3.1940 - val_policy_net_loss: 2.1193 - val_value_net_loss: 1.0747
+Epoch 268/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9703 - policy_net_loss: 1.2449 - value_net_loss: 0.7254 - val_loss: 3.1888 - val_policy_net_loss: 2.1131 - val_value_net_loss: 1.0757
+Epoch 269/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9748 - policy_net_loss: 1.2454 - value_net_loss: 0.7295 - val_loss: 3.1726 - val_policy_net_loss: 2.0954 - val_value_net_loss: 1.0772
+Epoch 270/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9718 - policy_net_loss: 1.2431 - value_net_loss: 0.7287 - val_loss: 3.1781 - val_policy_net_loss: 2.1075 - val_value_net_loss: 1.0706
+Epoch 271/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9694 - policy_net_loss: 1.2436 - value_net_loss: 0.7258 - val_loss: 3.1864 - val_policy_net_loss: 2.1097 - val_value_net_loss: 1.0767
+Epoch 272/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9671 - policy_net_loss: 1.2403 - value_net_loss: 0.7268 - val_loss: 3.1701 - val_policy_net_loss: 2.0946 - val_value_net_loss: 1.0755
+Epoch 273/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9664 - policy_net_loss: 1.2396 - value_net_loss: 0.7268 - val_loss: 3.1993 - val_policy_net_loss: 2.1185 - val_value_net_loss: 1.0808
+Epoch 274/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9617 - policy_net_loss: 1.2350 - value_net_loss: 0.7267 - val_loss: 3.1778 - val_policy_net_loss: 2.1036 - val_value_net_loss: 1.0742
+Epoch 275/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9596 - policy_net_loss: 1.2379 - value_net_loss: 0.7217 - val_loss: 3.2052 - val_policy_net_loss: 2.1252 - val_value_net_loss: 1.0800
+Epoch 276/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9560 - policy_net_loss: 1.2327 - value_net_loss: 0.7233 - val_loss: 3.1952 - val_policy_net_loss: 2.1174 - val_value_net_loss: 1.0778
+Epoch 277/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9591 - policy_net_loss: 1.2361 - value_net_loss: 0.7230 - val_loss: 3.1964 - val_policy_net_loss: 2.1104 - val_value_net_loss: 1.0860
+Epoch 278/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9625 - policy_net_loss: 1.2387 - value_net_loss: 0.7237 - val_loss: 3.2205 - val_policy_net_loss: 2.1294 - val_value_net_loss: 1.0911
+Epoch 279/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9502 - policy_net_loss: 1.2323 - value_net_loss: 0.7179 - val_loss: 3.1896 - val_policy_net_loss: 2.1060 - val_value_net_loss: 1.0836
+Epoch 280/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9578 - policy_net_loss: 1.2346 - value_net_loss: 0.7232 - val_loss: 3.2142 - val_policy_net_loss: 2.1213 - val_value_net_loss: 1.0929
+Epoch 281/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9573 - policy_net_loss: 1.2352 - value_net_loss: 0.7221 - val_loss: 3.2035 - val_policy_net_loss: 2.1196 - val_value_net_loss: 1.0839
+Epoch 282/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9619 - policy_net_loss: 1.2417 - value_net_loss: 0.7202 - val_loss: 3.2089 - val_policy_net_loss: 2.1170 - val_value_net_loss: 1.0919
+Epoch 283/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9586 - policy_net_loss: 1.2369 - value_net_loss: 0.7217 - val_loss: 3.2070 - val_policy_net_loss: 2.1142 - val_value_net_loss: 1.0928
+Epoch 284/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9536 - policy_net_loss: 1.2329 - value_net_loss: 0.7207 - val_loss: 3.2037 - val_policy_net_loss: 2.1243 - val_value_net_loss: 1.0794
+Epoch 285/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9523 - policy_net_loss: 1.2324 - value_net_loss: 0.7200 - val_loss: 3.2173 - val_policy_net_loss: 2.1258 - val_value_net_loss: 1.0915
+Epoch 286/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9544 - policy_net_loss: 1.2330 - value_net_loss: 0.7214 - val_loss: 3.1981 - val_policy_net_loss: 2.1109 - val_value_net_loss: 1.0872
+Epoch 287/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9503 - policy_net_loss: 1.2318 - value_net_loss: 0.7184 - val_loss: 3.2146 - val_policy_net_loss: 2.1181 - val_value_net_loss: 1.0965
+Epoch 288/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9569 - policy_net_loss: 1.2347 - value_net_loss: 0.7222 - val_loss: 3.2012 - val_policy_net_loss: 2.1123 - val_value_net_loss: 1.0889
+Epoch 289/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9525 - policy_net_loss: 1.2329 - value_net_loss: 0.7196 - val_loss: 3.2010 - val_policy_net_loss: 2.1189 - val_value_net_loss: 1.0820
+Epoch 290/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9520 - policy_net_loss: 1.2302 - value_net_loss: 0.7219 - val_loss: 3.2076 - val_policy_net_loss: 2.1211 - val_value_net_loss: 1.0865
+Epoch 291/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9509 - policy_net_loss: 1.2292 - value_net_loss: 0.7217 - val_loss: 3.2154 - val_policy_net_loss: 2.1252 - val_value_net_loss: 1.0901
+Epoch 292/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9485 - policy_net_loss: 1.2295 - value_net_loss: 0.7190 - val_loss: 3.2025 - val_policy_net_loss: 2.1170 - val_value_net_loss: 1.0855
+Epoch 293/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9468 - policy_net_loss: 1.2285 - value_net_loss: 0.7183 - val_loss: 3.2301 - val_policy_net_loss: 2.1415 - val_value_net_loss: 1.0885
+Epoch 294/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9501 - policy_net_loss: 1.2304 - value_net_loss: 0.7196 - val_loss: 3.2140 - val_policy_net_loss: 2.1324 - val_value_net_loss: 1.0816
+Epoch 295/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9475 - policy_net_loss: 1.2299 - value_net_loss: 0.7176 - val_loss: 3.2074 - val_policy_net_loss: 2.1143 - val_value_net_loss: 1.0931
+Epoch 296/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9475 - policy_net_loss: 1.2289 - value_net_loss: 0.7185 - val_loss: 3.1994 - val_policy_net_loss: 2.1133 - val_value_net_loss: 1.0861
+Epoch 297/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9446 - policy_net_loss: 1.2265 - value_net_loss: 0.7181 - val_loss: 3.2109 - val_policy_net_loss: 2.1277 - val_value_net_loss: 1.0832
+Epoch 298/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9480 - policy_net_loss: 1.2295 - value_net_loss: 0.7185 - val_loss: 3.2040 - val_policy_net_loss: 2.1142 - val_value_net_loss: 1.0898
+Epoch 299/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9449 - policy_net_loss: 1.2292 - value_net_loss: 0.7157 - val_loss: 3.2080 - val_policy_net_loss: 2.1221 - val_value_net_loss: 1.0859
+Epoch 300/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9325 - policy_net_loss: 1.2198 - value_net_loss: 0.7127 - val_loss: 3.2398 - val_policy_net_loss: 2.1381 - val_value_net_loss: 1.1017
+Epoch 301/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9446 - policy_net_loss: 1.2271 - value_net_loss: 0.7176 - val_loss: 3.2275 - val_policy_net_loss: 2.1395 - val_value_net_loss: 1.0879
+Epoch 302/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9408 - policy_net_loss: 1.2239 - value_net_loss: 0.7169 - val_loss: 3.2101 - val_policy_net_loss: 2.1194 - val_value_net_loss: 1.0907
+Epoch 303/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9411 - policy_net_loss: 1.2251 - value_net_loss: 0.7160 - val_loss: 3.2253 - val_policy_net_loss: 2.1280 - val_value_net_loss: 1.0973
+Epoch 304/400
+1200/1200 [==============================] - 13s 10ms/step - loss: 1.9417 - policy_net_loss: 1.2266 - value_net_loss: 0.7151 - val_loss: 3.2254 - val_policy_net_loss: 2.1299 - val_value_net_loss: 1.0955
+Epoch 305/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9395 - policy_net_loss: 1.2223 - value_net_loss: 0.7172 - val_loss: 3.2322 - val_policy_net_loss: 2.1435 - val_value_net_loss: 1.0887
+Epoch 306/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9386 - policy_net_loss: 1.2243 - value_net_loss: 0.7143 - val_loss: 3.2372 - val_policy_net_loss: 2.1363 - val_value_net_loss: 1.1009
+Epoch 307/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9404 - policy_net_loss: 1.2249 - value_net_loss: 0.7155 - val_loss: 3.2378 - val_policy_net_loss: 2.1344 - val_value_net_loss: 1.1034
+Epoch 308/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9376 - policy_net_loss: 1.2216 - value_net_loss: 0.7160 - val_loss: 3.2199 - val_policy_net_loss: 2.1390 - val_value_net_loss: 1.0809
+Epoch 309/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9334 - policy_net_loss: 1.2206 - value_net_loss: 0.7128 - val_loss: 3.2261 - val_policy_net_loss: 2.1302 - val_value_net_loss: 1.0960
+Epoch 310/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9411 - policy_net_loss: 1.2267 - value_net_loss: 0.7144 - val_loss: 3.2124 - val_policy_net_loss: 2.1184 - val_value_net_loss: 1.0940
+Epoch 311/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9412 - policy_net_loss: 1.2254 - value_net_loss: 0.7158 - val_loss: 3.2297 - val_policy_net_loss: 2.1362 - val_value_net_loss: 1.0936
+Epoch 312/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9289 - policy_net_loss: 1.2181 - value_net_loss: 0.7108 - val_loss: 3.2473 - val_policy_net_loss: 2.1484 - val_value_net_loss: 1.0989
+Epoch 313/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9367 - policy_net_loss: 1.2214 - value_net_loss: 0.7153 - val_loss: 3.2214 - val_policy_net_loss: 2.1331 - val_value_net_loss: 1.0882
+Epoch 314/400
+1200/1200 [==============================] - 11s 9ms/step - loss: 1.9235 - policy_net_loss: 1.2105 - value_net_loss: 0.7130 - val_loss: 3.2643 - val_policy_net_loss: 2.1644 - val_value_net_loss: 1.0999
+Epoch 315/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9352 - policy_net_loss: 1.2219 - value_net_loss: 0.7133 - val_loss: 3.2243 - val_policy_net_loss: 2.1254 - val_value_net_loss: 1.0989
+Epoch 316/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9326 - policy_net_loss: 1.2192 - value_net_loss: 0.7133 - val_loss: 3.2266 - val_policy_net_loss: 2.1257 - val_value_net_loss: 1.1009
+Epoch 317/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9359 - policy_net_loss: 1.2213 - value_net_loss: 0.7146 - val_loss: 3.2406 - val_policy_net_loss: 2.1416 - val_value_net_loss: 1.0990
+Epoch 318/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9295 - policy_net_loss: 1.2171 - value_net_loss: 0.7124 - val_loss: 3.2480 - val_policy_net_loss: 2.1423 - val_value_net_loss: 1.1057
+Epoch 319/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9244 - policy_net_loss: 1.2138 - value_net_loss: 0.7106 - val_loss: 3.2577 - val_policy_net_loss: 2.1570 - val_value_net_loss: 1.1007
+Epoch 320/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9311 - policy_net_loss: 1.2192 - value_net_loss: 0.7118 - val_loss: 3.2411 - val_policy_net_loss: 2.1420 - val_value_net_loss: 1.0992
+Epoch 321/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9213 - policy_net_loss: 1.2145 - value_net_loss: 0.7068 - val_loss: 3.2413 - val_policy_net_loss: 2.1406 - val_value_net_loss: 1.1007
+Epoch 322/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9304 - policy_net_loss: 1.2192 - value_net_loss: 0.7111 - val_loss: 3.2464 - val_policy_net_loss: 2.1503 - val_value_net_loss: 1.0961
+Epoch 323/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9225 - policy_net_loss: 1.2122 - value_net_loss: 0.7103 - val_loss: 3.2428 - val_policy_net_loss: 2.1365 - val_value_net_loss: 1.1063
+Epoch 324/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9273 - policy_net_loss: 1.2170 - value_net_loss: 0.7103 - val_loss: 3.2617 - val_policy_net_loss: 2.1535 - val_value_net_loss: 1.1082
+Epoch 325/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9300 - policy_net_loss: 1.2216 - value_net_loss: 0.7084 - val_loss: 3.2455 - val_policy_net_loss: 2.1451 - val_value_net_loss: 1.1004
+Epoch 326/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9263 - policy_net_loss: 1.2136 - value_net_loss: 0.7127 - val_loss: 3.2549 - val_policy_net_loss: 2.1450 - val_value_net_loss: 1.1099
+Epoch 327/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9263 - policy_net_loss: 1.2185 - value_net_loss: 0.7078 - val_loss: 3.2578 - val_policy_net_loss: 2.1440 - val_value_net_loss: 1.1139
+Epoch 328/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9219 - policy_net_loss: 1.2130 - value_net_loss: 0.7088 - val_loss: 3.2628 - val_policy_net_loss: 2.1608 - val_value_net_loss: 1.1020
+Epoch 329/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9214 - policy_net_loss: 1.2178 - value_net_loss: 0.7036 - val_loss: 3.2565 - val_policy_net_loss: 2.1461 - val_value_net_loss: 1.1104
+Epoch 330/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9166 - policy_net_loss: 1.2110 - value_net_loss: 0.7056 - val_loss: 3.2638 - val_policy_net_loss: 2.1520 - val_value_net_loss: 1.1118
+Epoch 331/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9173 - policy_net_loss: 1.2118 - value_net_loss: 0.7056 - val_loss: 3.2717 - val_policy_net_loss: 2.1562 - val_value_net_loss: 1.1155
+Epoch 332/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9158 - policy_net_loss: 1.2078 - value_net_loss: 0.7080 - val_loss: 3.2583 - val_policy_net_loss: 2.1510 - val_value_net_loss: 1.1073
+Epoch 333/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9216 - policy_net_loss: 1.2146 - value_net_loss: 0.7070 - val_loss: 3.2483 - val_policy_net_loss: 2.1370 - val_value_net_loss: 1.1113
+Epoch 334/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9124 - policy_net_loss: 1.2058 - value_net_loss: 0.7066 - val_loss: 3.2516 - val_policy_net_loss: 2.1489 - val_value_net_loss: 1.1027
+Epoch 335/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9168 - policy_net_loss: 1.2098 - value_net_loss: 0.7070 - val_loss: 3.2524 - val_policy_net_loss: 2.1465 - val_value_net_loss: 1.1059
+Epoch 336/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9254 - policy_net_loss: 1.2152 - value_net_loss: 0.7102 - val_loss: 3.2535 - val_policy_net_loss: 2.1498 - val_value_net_loss: 1.1037
+Epoch 337/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9104 - policy_net_loss: 1.2061 - value_net_loss: 0.7043 - val_loss: 3.2712 - val_policy_net_loss: 2.1547 - val_value_net_loss: 1.1165
+Epoch 338/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9233 - policy_net_loss: 1.2149 - value_net_loss: 0.7083 - val_loss: 3.2472 - val_policy_net_loss: 2.1415 - val_value_net_loss: 1.1056
+Epoch 339/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9200 - policy_net_loss: 1.2159 - value_net_loss: 0.7041 - val_loss: 3.2515 - val_policy_net_loss: 2.1438 - val_value_net_loss: 1.1077
+Epoch 340/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9129 - policy_net_loss: 1.2087 - value_net_loss: 0.7042 - val_loss: 3.2358 - val_policy_net_loss: 2.1321 - val_value_net_loss: 1.1037
+Epoch 341/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9194 - policy_net_loss: 1.2138 - value_net_loss: 0.7056 - val_loss: 3.2627 - val_policy_net_loss: 2.1487 - val_value_net_loss: 1.1140
+Epoch 342/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9085 - policy_net_loss: 1.2084 - value_net_loss: 0.7001 - val_loss: 3.2399 - val_policy_net_loss: 2.1317 - val_value_net_loss: 1.1082
+Epoch 343/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9110 - policy_net_loss: 1.2087 - value_net_loss: 0.7023 - val_loss: 3.2609 - val_policy_net_loss: 2.1507 - val_value_net_loss: 1.1102
+Epoch 344/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9100 - policy_net_loss: 1.2063 - value_net_loss: 0.7037 - val_loss: 3.2765 - val_policy_net_loss: 2.1569 - val_value_net_loss: 1.1196
+Epoch 345/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9151 - policy_net_loss: 1.2117 - value_net_loss: 0.7034 - val_loss: 3.2851 - val_policy_net_loss: 2.1637 - val_value_net_loss: 1.1214
+Epoch 346/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9179 - policy_net_loss: 1.2134 - value_net_loss: 0.7045 - val_loss: 3.2560 - val_policy_net_loss: 2.1406 - val_value_net_loss: 1.1154
+Epoch 347/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9065 - policy_net_loss: 1.2048 - value_net_loss: 0.7017 - val_loss: 3.2691 - val_policy_net_loss: 2.1524 - val_value_net_loss: 1.1167
+Epoch 348/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9135 - policy_net_loss: 1.2066 - value_net_loss: 0.7069 - val_loss: 3.2529 - val_policy_net_loss: 2.1489 - val_value_net_loss: 1.1041
+Epoch 349/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9064 - policy_net_loss: 1.2048 - value_net_loss: 0.7016 - val_loss: 3.2641 - val_policy_net_loss: 2.1472 - val_value_net_loss: 1.1170
+Epoch 350/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9031 - policy_net_loss: 1.2034 - value_net_loss: 0.6997 - val_loss: 3.2892 - val_policy_net_loss: 2.1606 - val_value_net_loss: 1.1287
+Epoch 351/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9002 - policy_net_loss: 1.2011 - value_net_loss: 0.6991 - val_loss: 3.2872 - val_policy_net_loss: 2.1677 - val_value_net_loss: 1.1194
+Epoch 352/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9081 - policy_net_loss: 1.2071 - value_net_loss: 0.7009 - val_loss: 3.2859 - val_policy_net_loss: 2.1595 - val_value_net_loss: 1.1264
+Epoch 353/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9097 - policy_net_loss: 1.2082 - value_net_loss: 0.7015 - val_loss: 3.2776 - val_policy_net_loss: 2.1598 - val_value_net_loss: 1.1178
+Epoch 354/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9069 - policy_net_loss: 1.2057 - value_net_loss: 0.7013 - val_loss: 3.2751 - val_policy_net_loss: 2.1503 - val_value_net_loss: 1.1247
+Epoch 355/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9093 - policy_net_loss: 1.2080 - value_net_loss: 0.7013 - val_loss: 3.2819 - val_policy_net_loss: 2.1599 - val_value_net_loss: 1.1220
+Epoch 356/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8987 - policy_net_loss: 1.1966 - value_net_loss: 0.7021 - val_loss: 3.2798 - val_policy_net_loss: 2.1684 - val_value_net_loss: 1.1114
+Epoch 357/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9002 - policy_net_loss: 1.2009 - value_net_loss: 0.6993 - val_loss: 3.2856 - val_policy_net_loss: 2.1642 - val_value_net_loss: 1.1214
+Epoch 358/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9067 - policy_net_loss: 1.2058 - value_net_loss: 0.7010 - val_loss: 3.2664 - val_policy_net_loss: 2.1543 - val_value_net_loss: 1.1121
+Epoch 359/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8994 - policy_net_loss: 1.2013 - value_net_loss: 0.6981 - val_loss: 3.2739 - val_policy_net_loss: 2.1555 - val_value_net_loss: 1.1184
+Epoch 360/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.9008 - policy_net_loss: 1.2004 - value_net_loss: 0.7005 - val_loss: 3.2694 - val_policy_net_loss: 2.1538 - val_value_net_loss: 1.1156
+Epoch 361/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9055 - policy_net_loss: 1.2037 - value_net_loss: 0.7018 - val_loss: 3.2794 - val_policy_net_loss: 2.1639 - val_value_net_loss: 1.1155
+Epoch 362/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9005 - policy_net_loss: 1.2007 - value_net_loss: 0.6998 - val_loss: 3.2833 - val_policy_net_loss: 2.1677 - val_value_net_loss: 1.1157
+Epoch 363/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9062 - policy_net_loss: 1.2049 - value_net_loss: 0.7013 - val_loss: 3.2737 - val_policy_net_loss: 2.1565 - val_value_net_loss: 1.1173
+Epoch 364/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9021 - policy_net_loss: 1.2028 - value_net_loss: 0.6993 - val_loss: 3.2778 - val_policy_net_loss: 2.1614 - val_value_net_loss: 1.1164
+Epoch 365/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8990 - policy_net_loss: 1.1957 - value_net_loss: 0.7032 - val_loss: 3.3086 - val_policy_net_loss: 2.1768 - val_value_net_loss: 1.1318
+Epoch 366/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9034 - policy_net_loss: 1.2013 - value_net_loss: 0.7021 - val_loss: 3.2909 - val_policy_net_loss: 2.1635 - val_value_net_loss: 1.1274
+Epoch 367/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8960 - policy_net_loss: 1.1995 - value_net_loss: 0.6965 - val_loss: 3.3022 - val_policy_net_loss: 2.1778 - val_value_net_loss: 1.1243
+Epoch 368/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.9004 - policy_net_loss: 1.2013 - value_net_loss: 0.6991 - val_loss: 3.2826 - val_policy_net_loss: 2.1617 - val_value_net_loss: 1.1209
+Epoch 369/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8974 - policy_net_loss: 1.1965 - value_net_loss: 0.7008 - val_loss: 3.2856 - val_policy_net_loss: 2.1624 - val_value_net_loss: 1.1231
+Epoch 370/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8944 - policy_net_loss: 1.1959 - value_net_loss: 0.6986 - val_loss: 3.2824 - val_policy_net_loss: 2.1618 - val_value_net_loss: 1.1206
+Epoch 371/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8948 - policy_net_loss: 1.1971 - value_net_loss: 0.6976 - val_loss: 3.3004 - val_policy_net_loss: 2.1695 - val_value_net_loss: 1.1309
+Epoch 372/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8974 - policy_net_loss: 1.2004 - value_net_loss: 0.6970 - val_loss: 3.2749 - val_policy_net_loss: 2.1549 - val_value_net_loss: 1.1200
+Epoch 373/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8986 - policy_net_loss: 1.2019 - value_net_loss: 0.6967 - val_loss: 3.2771 - val_policy_net_loss: 2.1548 - val_value_net_loss: 1.1223
+Epoch 374/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8889 - policy_net_loss: 1.1925 - value_net_loss: 0.6965 - val_loss: 3.3149 - val_policy_net_loss: 2.1802 - val_value_net_loss: 1.1348
+Epoch 375/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8986 - policy_net_loss: 1.2027 - value_net_loss: 0.6959 - val_loss: 3.2765 - val_policy_net_loss: 2.1583 - val_value_net_loss: 1.1182
+Epoch 376/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8949 - policy_net_loss: 1.2006 - value_net_loss: 0.6943 - val_loss: 3.2833 - val_policy_net_loss: 2.1594 - val_value_net_loss: 1.1240
+Epoch 377/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8923 - policy_net_loss: 1.1943 - value_net_loss: 0.6980 - val_loss: 3.2859 - val_policy_net_loss: 2.1674 - val_value_net_loss: 1.1186
+Epoch 378/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8968 - policy_net_loss: 1.1998 - value_net_loss: 0.6970 - val_loss: 3.2839 - val_policy_net_loss: 2.1603 - val_value_net_loss: 1.1236
+Epoch 379/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8900 - policy_net_loss: 1.1941 - value_net_loss: 0.6959 - val_loss: 3.2903 - val_policy_net_loss: 2.1661 - val_value_net_loss: 1.1241
+Epoch 380/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8941 - policy_net_loss: 1.1979 - value_net_loss: 0.6963 - val_loss: 3.2843 - val_policy_net_loss: 2.1616 - val_value_net_loss: 1.1227
+Epoch 381/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8829 - policy_net_loss: 1.1900 - value_net_loss: 0.6929 - val_loss: 3.3045 - val_policy_net_loss: 2.1764 - val_value_net_loss: 1.1281
+Epoch 382/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8915 - policy_net_loss: 1.1949 - value_net_loss: 0.6966 - val_loss: 3.3058 - val_policy_net_loss: 2.1661 - val_value_net_loss: 1.1397
+Epoch 383/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8883 - policy_net_loss: 1.1949 - value_net_loss: 0.6935 - val_loss: 3.2697 - val_policy_net_loss: 2.1532 - val_value_net_loss: 1.1165
+Epoch 384/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8891 - policy_net_loss: 1.1926 - value_net_loss: 0.6965 - val_loss: 3.2855 - val_policy_net_loss: 2.1626 - val_value_net_loss: 1.1229
+Epoch 385/400
+1200/1200 [==============================] - 11s 10ms/step - loss: 1.8827 - policy_net_loss: 1.1896 - value_net_loss: 0.6931 - val_loss: 3.3068 - val_policy_net_loss: 2.1845 - val_value_net_loss: 1.1223
+Epoch 386/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8851 - policy_net_loss: 1.1914 - value_net_loss: 0.6937 - val_loss: 3.2697 - val_policy_net_loss: 2.1470 - val_value_net_loss: 1.1227
+Epoch 387/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8819 - policy_net_loss: 1.1886 - value_net_loss: 0.6932 - val_loss: 3.2872 - val_policy_net_loss: 2.1577 - val_value_net_loss: 1.1295
+Epoch 388/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8875 - policy_net_loss: 1.1912 - value_net_loss: 0.6963 - val_loss: 3.2903 - val_policy_net_loss: 2.1720 - val_value_net_loss: 1.1184
+Epoch 389/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8858 - policy_net_loss: 1.1918 - value_net_loss: 0.6940 - val_loss: 3.2840 - val_policy_net_loss: 2.1516 - val_value_net_loss: 1.1324
+Epoch 390/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8870 - policy_net_loss: 1.1943 - value_net_loss: 0.6927 - val_loss: 3.2851 - val_policy_net_loss: 2.1603 - val_value_net_loss: 1.1248
+Epoch 391/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8894 - policy_net_loss: 1.1943 - value_net_loss: 0.6951 - val_loss: 3.3066 - val_policy_net_loss: 2.1791 - val_value_net_loss: 1.1275
+Epoch 392/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8757 - policy_net_loss: 1.1880 - value_net_loss: 0.6876 - val_loss: 3.3206 - val_policy_net_loss: 2.1835 - val_value_net_loss: 1.1372
+Epoch 393/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8808 - policy_net_loss: 1.1925 - value_net_loss: 0.6883 - val_loss: 3.3273 - val_policy_net_loss: 2.1840 - val_value_net_loss: 1.1433
+Epoch 394/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8806 - policy_net_loss: 1.1896 - value_net_loss: 0.6910 - val_loss: 3.3056 - val_policy_net_loss: 2.1690 - val_value_net_loss: 1.1366
+Epoch 395/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8826 - policy_net_loss: 1.1907 - value_net_loss: 0.6919 - val_loss: 3.2967 - val_policy_net_loss: 2.1652 - val_value_net_loss: 1.1315
+Epoch 396/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8837 - policy_net_loss: 1.1880 - value_net_loss: 0.6957 - val_loss: 3.2930 - val_policy_net_loss: 2.1719 - val_value_net_loss: 1.1211
+Epoch 397/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8808 - policy_net_loss: 1.1885 - value_net_loss: 0.6923 - val_loss: 3.3133 - val_policy_net_loss: 2.1800 - val_value_net_loss: 1.1333
+Epoch 398/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8825 - policy_net_loss: 1.1924 - value_net_loss: 0.6901 - val_loss: 3.2988 - val_policy_net_loss: 2.1665 - val_value_net_loss: 1.1323
+Epoch 399/400
+1200/1200 [==============================] - 13s 11ms/step - loss: 1.8770 - policy_net_loss: 1.1850 - value_net_loss: 0.6920 - val_loss: 3.3162 - val_policy_net_loss: 2.1847 - val_value_net_loss: 1.1314
+Epoch 400/400
+1200/1200 [==============================] - 12s 10ms/step - loss: 1.8830 - policy_net_loss: 1.1882 - value_net_loss: 0.6948 - val_loss: 3.2985 - val_policy_net_loss: 2.1691 - val_value_net_loss: 1.1294

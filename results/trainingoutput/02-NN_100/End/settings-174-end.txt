@@ -1,0 +1,15 @@
+Games: 200
+Boxes: 3
+MCTS time P1: 5000 ms
+MCTS time P2: 5000 ms
+Simulations P1 / node: 160
+Simulations P2 / node: 160
+Utc: 1.41
+Bonus: 3
+---------------------------
+Agent 1: 32 wins
+Agent 2: 168 wins
+Draws   : 0
+---------------------------
+
+Finished. 01:59:10.0223186
