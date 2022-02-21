@@ -6,7 +6,7 @@ Linux: start.sh
 # Dependencies
 
 + To run the game:
-wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb;\
+wget -q https://packages.microsoft.com/config/ubuntu/18.04/packages-microsoft-prod.deb; \
 sudo dpkg -i packages-microsoft-prod.deb;\
 sudo apt-get -y install apt-transport-https;\
 sudo add-apt-repository universe;\
