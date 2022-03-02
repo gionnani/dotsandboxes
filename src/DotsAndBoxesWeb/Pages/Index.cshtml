@@ -5,37 +5,65 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Dots and Boxes</h1>
-    <form autocomplete="off" method="post">
+    <h1 class="display-4 margin-50">Dots and Boxes</h1>
+    <form class="margin-50" autocomplete="off" method="post">
         <fieldset>
-            <div class="row">
-                <section class="col-2">
+            <div class="row margin-50">
+                <section class="col col-2">
                     <label asp-for="DataResponse.Boxes" class="control-label"></label>
-                    <input asp-for="DataResponse.Boxes" class="form-control" value="3"/>
+                    <input asp-for="DataResponse.Boxes" class="form-control" value="3" />
                     <span asp-validation-for="DataResponse.Boxes" class="text-danger"></span>
                 </section>
             </div>
-            <div class="row">
-                <section class="col-6">
-                    <label asp-for="DataResponse.Player1" class="control-label"></label>
-                    <input type="text" asp-for="DataResponse.Player1Name" value="A" class="form-control" />
-                    <input type="radio" asp-for="DataResponse.Player1" value="1" checked class="form-control" /> User
-                    <input type="radio" asp-for="DataResponse.Player1" value="2" class="form-control" /> Random
-                    <input type="radio" asp-for="DataResponse.Player1" value="3" class="form-control" /> MCTS
-                    <input type="radio" asp-for="DataResponse.Player1" value="4" class="form-control" /> NN
-                    <span asp-validation-for="DataResponse.Player1" class="text-danger"></span>
+            <div class="row margin-50">
+                <section class="col col-6">
+                    <label asp-for="DataResponse.Player1Name" class="control-label"></label>
+                    <input type="text" asp-for="DataResponse.Player1Name" value="A" class="form-control" /><br />
+                    <div class="row">
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player1" value="1" checked class="form-control" /> User
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player1" value="2" class="form-control" /> Random
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player1" value="3" class="form-control" /> MCTS
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player1" value="4" class="form-control" /> NN
+                        </section>
+                        <span asp-validation-for="DataResponse.Player1" class="text-danger"></span>
+                    </div>
                 </section>
-                <section class="col-6">
-                    <label asp-for="DataResponse.Player2" class="control-label"></label>
-                    <input type="text" asp-for="DataResponse.Player2Name" value="B" class="form-control" />
-                    <input type="radio" asp-for="DataResponse.Player2" value="1" class="form-control" /> User
-                    <input type="radio" asp-for="DataResponse.Player2" value="2" class="form-control" /> Random
-                    <input type="radio" asp-for="DataResponse.Player2" value="3" class="form-control" /> MCTS
-                    <input type="radio" asp-for="DataResponse.Player2" value="4" checked class="form-control" /> NN
-                    <span asp-validation-for="DataResponse.Player2" class="text-danger"></span>
-                </section>
+                <div class="col col-6 margin-50">
+                    <label asp-for="DataResponse.Player2Name" class="control-label"></label>
+                    <input type="text" asp-for="DataResponse.Player2Name" value="B" class="form-control" /><br />
+                    <div class="row">
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player2" value="1" class="form-control" /> User
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player2" value="2" class="form-control" /> Random
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player2" value="3" class="form-control" /> MCTS
+                        </section>
+                        <section class="col-3">
+                            <input type="radio" asp-for="DataResponse.Player2" value="4" checked class="form-control" /> NN
+                        </section>
+                        <span asp-validation-for="DataResponse.Player2" class="text-danger"></span>
+                    </div>
+                </div>
             </div>
         </fieldset>
-        <button asp-page-handler="Step" type="submit">Send</button>
+        <div class="row margin-50">
+            <section class="col col-4">
+            </section>
+            <section class="col-4">
+                <button asp-page-handler="Step" class="form-control btn-success" type="submit">Start</button>
+            </section>
+            <section class="col-4">
+            </section>
+        </div>
     </form>
 </div>
