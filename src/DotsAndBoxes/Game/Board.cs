@@ -274,7 +274,7 @@ namespace DotsAndBoxes.Game
             char c2 = stringPlay[1];
             int cInt, lInt;
 
-            // only create, invalid
+            // both lower case or upper case
             if ((c1 >= 97 && c2 >= 97) || (c1 < 97 && c2 < 97))
                 return this;
 
@@ -283,6 +283,10 @@ namespace DotsAndBoxes.Game
             {
                 cInt = Convert.ToInt32(c1) - 97;
                 lInt = Convert.ToInt32(c2) - 65;
+
+                // out of range
+                if (cInt >= _n || lInt > _n)
+                    return this;
 
                 // cannot repeat
                 if (_mLines[lInt, cInt] != 0)
@@ -300,6 +304,10 @@ namespace DotsAndBoxes.Game
             {
                 lInt = Convert.ToInt32(c1) - 65;
                 cInt = Convert.ToInt32(c2) - 97;
+
+                // out of range
+                if (cInt > _n || lInt >= _n)
+                    return this;
 
                 // cannot repeat
                 if (_mColumns[lInt, cInt] == 1)
