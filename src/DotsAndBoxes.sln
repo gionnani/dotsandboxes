@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Data", "Api.Data\Api.Data.csproj", "{908296C7-67A9-4D0B-839F-F412251DF482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotsAndBoxesTests", "DotsAndBoxesTests\DotsAndBoxesTests.csproj", "{48126F92-8F19-418C-B390-C1736C7F1D19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotsAndBoxesTests", "DotsAndBoxesTests\DotsAndBoxesTests.csproj", "{48126F92-8F19-418C-B390-C1736C7F1D19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotsAndBoxesWeb", "DotsAndBoxesWeb\DotsAndBoxesWeb.csproj", "{E3F888EC-EB67-4526-AD92-8F621B4F7966}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,18 @@ Global
 		{48126F92-8F19-418C-B390-C1736C7F1D19}.Release|x64.Build.0 = Release|Any CPU
 		{48126F92-8F19-418C-B390-C1736C7F1D19}.Release|x86.ActiveCfg = Release|Any CPU
 		{48126F92-8F19-418C-B390-C1736C7F1D19}.Release|x86.Build.0 = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|x64.Build.0 = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Debug|x86.Build.0 = Debug|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|x64.ActiveCfg = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|x64.Build.0 = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|x86.ActiveCfg = Release|Any CPU
+		{E3F888EC-EB67-4526-AD92-8F621B4F7966}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,7 +119,7 @@ Global
 		SolutionGuid = {60E136E8-651B-4B05-B7E9-6018436A09D4}
 	EndGlobalSection
 	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 7
+		SccNumberOfProjects = 8
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://gionani.visualstudio.com/
 		SccLocalPath0 = .
@@ -127,5 +141,8 @@ Global
 		SccProjectUniqueName6 = DotsAndBoxesTests\\DotsAndBoxesTests.csproj
 		SccProjectName6 = DotsAndBoxesTests
 		SccLocalPath6 = DotsAndBoxesTests
+		SccProjectUniqueName7 = DotsAndBoxesWeb\\DotsAndBoxesWeb.csproj
+		SccProjectName7 = DotsAndBoxesWeb
+		SccLocalPath7 = DotsAndBoxesWeb
 	EndGlobalSection
 EndGlobal

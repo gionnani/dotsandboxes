@@ -1,0 +1,30 @@
+﻿@page
+@model DotsAndBoxesWeb.Pages.GameModel
+@{
+    ViewData["Title"] = "Dots and Boxes Game";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Dots and Boxes</h1>
+    <form autocomplete="off" method="post">
+        <fieldset>
+            <div class="row">
+                <section class="col-12">
+                    <label style="font-family: courier;" class="control-label">@Html.Raw(Model.DataResponse.Message)</label>
+                    <input type="hidden" asp-for="DataResponse.Id" />
+                </section>
+            </div>
+            <div class="row">
+                <section class="col-12">
+                    <input type="text" asp-for="DataResponse.Play" class="form-control" value="@Model.DataResponse.Play" />
+                </section>
+            </div>
+            <br/>
+            <div class="row">
+                <section class="col-12">
+                    <button asp-page-handler="Play" type="submit">Play</button>
+                </section>
+            </div>
+        </fieldset>
+    </form>
+</div>

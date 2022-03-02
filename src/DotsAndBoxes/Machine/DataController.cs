@@ -22,6 +22,8 @@ namespace DotsAndBoxes.Machine
         /// </summary>
         private static long? _id = DateTime.Now.Ticks;
 
+        public static bool Disable { get; set; } = false;
+
         #endregion
 
         #region Init
@@ -31,6 +33,8 @@ namespace DotsAndBoxes.Machine
         /// </summary>
         public static void Initialize()
         {
+            if (Disable) return;
+
             _export ??= new Exporter();
 
             var id = "";
@@ -64,6 +68,8 @@ namespace DotsAndBoxes.Machine
         /// </summary>
         public static void StartExport()
         {
+            if (Disable) return;
+
             if (_export == null)
                 Initialize();
 
@@ -79,6 +85,8 @@ namespace DotsAndBoxes.Machine
         /// <exception cref="Exception">Please Initialize First!</exception>
         public static void Store(string data, FileType fileType)
         {
+            if (Disable) return;
+
             if (_export == null)
                 throw new Exception("Please Initialize First!");
 
@@ -91,6 +99,8 @@ namespace DotsAndBoxes.Machine
         /// <exception cref="Exception">Please Initialize First!</exception>
         public static void StoreExport()
         {
+            if (Disable) return;
+
             if (_export == null)
                 throw new Exception("Please Initialize First!");
 
@@ -107,6 +117,8 @@ namespace DotsAndBoxes.Machine
         /// <exception cref="Exception">Please Initialize First!</exception>
         public static void FinishExport(int boxes)
         {
+            if (Disable) return;
+
             if (_export == null)
                 throw new Exception("Please Initialize First!");
 
@@ -122,6 +134,8 @@ namespace DotsAndBoxes.Machine
         /// </summary>
         public static void ReleaseFiles()
         {
+            if (Disable) return;
+
             _export.Dispose();
             _export = null;
         }

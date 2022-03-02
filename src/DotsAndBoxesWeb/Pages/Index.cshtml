@@ -1,0 +1,41 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Dots and Boxes Game";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Dots and Boxes</h1>
+    <form autocomplete="off" method="post">
+        <fieldset>
+            <div class="row">
+                <section class="col-2">
+                    <label asp-for="DataResponse.Boxes" class="control-label"></label>
+                    <input asp-for="DataResponse.Boxes" class="form-control" value="3"/>
+                    <span asp-validation-for="DataResponse.Boxes" class="text-danger"></span>
+                </section>
+            </div>
+            <div class="row">
+                <section class="col-6">
+                    <label asp-for="DataResponse.Player1" class="control-label"></label>
+                    <input type="text" asp-for="DataResponse.Player1Name" value="A" class="form-control" />
+                    <input type="radio" asp-for="DataResponse.Player1" value="1" checked class="form-control" /> User
+                    <input type="radio" asp-for="DataResponse.Player1" value="2" class="form-control" /> Random
+                    <input type="radio" asp-for="DataResponse.Player1" value="3" class="form-control" /> MCTS
+                    <input type="radio" asp-for="DataResponse.Player1" value="4" class="form-control" /> NN
+                    <span asp-validation-for="DataResponse.Player1" class="text-danger"></span>
+                </section>
+                <section class="col-6">
+                    <label asp-for="DataResponse.Player2" class="control-label"></label>
+                    <input type="text" asp-for="DataResponse.Player2Name" value="B" class="form-control" />
+                    <input type="radio" asp-for="DataResponse.Player2" value="1" class="form-control" /> User
+                    <input type="radio" asp-for="DataResponse.Player2" value="2" class="form-control" /> Random
+                    <input type="radio" asp-for="DataResponse.Player2" value="3" class="form-control" /> MCTS
+                    <input type="radio" asp-for="DataResponse.Player2" value="4" checked class="form-control" /> NN
+                    <span asp-validation-for="DataResponse.Player2" class="text-danger"></span>
+                </section>
+            </div>
+        </fieldset>
+        <button asp-page-handler="Step" type="submit">Send</button>
+    </form>
+</div>
